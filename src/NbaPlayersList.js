@@ -136,7 +136,7 @@ export const NbaPlayersList = [
 	weight: 237
 },
 {
-	picture: `https://d1tjohjvimcqgl.cloudfront.net/category/586531_n.jpg`,
+	picture: `https://www.golfdigest.com/content/dam/images/golfdigest/fullset/2021/dennisschroder_square.jpg`,
 	name: 'Dennis Schroeder',
 	position: "PG",
 	age: 28,
