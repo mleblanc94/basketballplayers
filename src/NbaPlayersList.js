@@ -135,4 +135,12 @@ export const NbaPlayersList = [
 	height: "6'8",
 	weight: 237
 },
+{
+	picture: `https://d1tjohjvimcqgl.cloudfront.net/category/586531_n.jpg`,
+	name: 'Dennis Schroeder',
+	position: "PG",
+	age: 28,
+	height: "6'2",
+	weight: 200
+},
 ];
