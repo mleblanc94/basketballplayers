@@ -2,7 +2,7 @@ import React from 'react';
 
 const NbaCards = ({ teamlogo, picture, name, position, age, height, weight  }) => {
   return (
-     <div className='tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5'>
+     <div className='tc grow bg-light-gray br3 pa3 ma2 dib bw2 shadow-5'>
      <img alt='Team Logo' src={teamlogo} height={170} width={170}/>
      <div>
      <h3>{name}</h3>
