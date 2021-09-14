@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb920b88093b12feadddc3937e17cdc5",
+    "revision": "bb9d1cb1406e269272012cdd26414e40",
     "url": "/basketballplayers/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/basketballplayers/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "2ddfc3f57fd7477f3008",
+    "revision": "b9c0b4a01c78e8fdebf8",
     "url": "/basketballplayers/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/basketballplayers/static/js/2.391fda0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ddfc3f57fd7477f3008",
-    "url": "/basketballplayers/static/js/main.796502e4.chunk.js"
+    "revision": "b9c0b4a01c78e8fdebf8",
+    "url": "/basketballplayers/static/js/main.c46f53c8.chunk.js"
   },
   {
     "revision": "ffe6fa956891f5ab74b6",
